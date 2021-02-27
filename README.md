@@ -23,7 +23,7 @@
   <li>Typescript</li>
   <li>TypeORM</li>
 </ul>
-<h3>Pré-requisitos</h3>
+<h4>Pré-requisitos</h4>
 <p>Deve-se ter instalado o Git e o NodeJs na máquina. Para a realização dos testes da aplicação, recomendo o uso do Insomnia.</p>
 <h3>⚙️ Instalação</h3>
     
